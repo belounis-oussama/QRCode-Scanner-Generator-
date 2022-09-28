@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Coding/QRCode-Scanner-Generator-/app/src/main/res/drawable/button_background.xml" value="0.1745" />
+        <entry key="..\:/Coding/QRCode-Scanner-Generator-/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17119565217391305" />
       </map>
     </option>
